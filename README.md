@@ -2,7 +2,7 @@
 
 **Financial Statement Chinese-to-English Translation Skills**
 
-本仓库包含两个 [Hermes Agent](https://hermes-agent.nousresearch.com) skill，用于系统化地将中文财务报表及附注翻译为专业英文。
+本仓库包含两个 [Hermes Agent](https://hermes-agent.nousresearch.com) skill，用于系统化地将中文财务报表及附注翻译为专业英文。翻译字典可随着使用者使用增加
 
 ---
 
