@@ -2,7 +2,7 @@
 
 **Financial Statement Chinese-to-English Translation Skills**
 
-本仓库包含两个 [Hermes Agent](https://hermes-agent.nousresearch.com) skill，用于系统化地将中文财务报表及附注翻译为专业英文。翻译字典可随着使用者使用增加
+本仓库包含两个 [Hermes Agent](https://hermes-agent.nousresearch.com) skill，用于系统化地将中文财务报表及附注翻译为专业英文。需要注意的是翻译字典里面的公司名称仅包括我参与翻译过的。
 
 ---
 
@@ -79,7 +79,7 @@ hermes skill load chinese-financial-translation
 
 ## 项目背景
 
-本仓库的规则与术语基于 **青岛胶州湾发展集团（Qingdao Jiaozhou Bay Development Group Co.,Ltd.）** 2025 年度财务报表的翻译实践，适用于一般企业的中文财务报表英译工作。
+本仓库的规则与术语基于一些公司的 2025 年度财务报表的翻译实践，适用于一般企业的中文财务报表英译工作。
 
 ---
 
